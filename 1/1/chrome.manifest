@@ -1,0 +1,5 @@
+content loop content/
+resource loop ./
+locale loop en-US locale/en-US/
+skin loop classic/1.0 skin/
+override chrome://browser/content/loop/shared/img/hello_logo.svg chrome://loop/content/shared/img/hello_logo.svg
